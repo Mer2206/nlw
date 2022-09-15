@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://mer2206.github.io/nlw-esportes-explorer/)
+[Clique aqui para acessar](https://marceloestevao.github.io/nlw-esportes-explorer/)
 
 ## Tecnologias
 
